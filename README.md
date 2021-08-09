@@ -27,3 +27,5 @@ Please place the two data sets (medium_link_prediction_noClue_shuffled_train.csv
 Usage:
 
 python main.py
+
+If there are other content that needs to be added, it will be updated later.
